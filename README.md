@@ -67,7 +67,7 @@ The [standard deviation][standard-deviation] for a [logistic][logistic-distribut
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-stdev@v0.2.2-deno/mod.js';
 ```
 
 #### stdev( mu, s )
@@ -127,7 +127,7 @@ y = stdev( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-stdev@v0.2.2-deno/mod.js';
 
 var mu;
 var s;
