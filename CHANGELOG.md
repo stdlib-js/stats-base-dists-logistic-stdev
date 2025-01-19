@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-24)
+## Unreleased (2025-01-19)
+
+<section class="features">
+
+### Features
+
+-   [`03954e1`](https://github.com/stdlib-js/stdlib/commit/03954e125b6cc761a5456e51c909ab09b18d15ee) - add C implementation for `stats/base/dists/logistic/stdev`   [(#4189)](https://github.com/stdlib-js/stdlib/pull/4189)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3745](https://github.com/stdlib-js/stdlib/issues/3745)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`03954e1`](https://github.com/stdlib-js/stdlib/commit/03954e125b6cc761a5456e51c909ab09b18d15ee) - **feat:** add C implementation for `stats/base/dists/logistic/stdev`   [(#4189)](https://github.com/stdlib-js/stdlib/pull/4189) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Vivek Maurya
 
 </section>
 
