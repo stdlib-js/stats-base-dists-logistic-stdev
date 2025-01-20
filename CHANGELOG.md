@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-19)
+## Unreleased (2025-01-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`5a6efed`](https://github.com/stdlib-js/stdlib/commit/5a6efed4b52bece2bbcef65d8b19dcfaa168ff78) - **refactor:** precompute constant _(by Philipp Burckhardt)_
 -   [`03954e1`](https://github.com/stdlib-js/stdlib/commit/03954e125b6cc761a5456e51c909ab09b18d15ee) - **feat:** add C implementation for `stats/base/dists/logistic/stdev`   [(#4189)](https://github.com/stdlib-js/stdlib/pull/4189) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
